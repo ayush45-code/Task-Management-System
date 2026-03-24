@@ -1,13 +1,13 @@
-package com.task.management;
+package com.aiJobResume.Selection;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TaskManagementApplication {
+public class AiJobResumeSeletionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TaskManagementApplication.class, args);
+		SpringApplication.run(AiJobResumeSeletionApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.task.management;
+package com.aiJobResume.Selection;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskManagementApplicationTests {
+class AiJobResumeSeletionApplicationTests {
 
 	@Test
 	void contextLoads() {
