@@ -30,7 +30,9 @@ public class JobEntity {
     private String skillsRequired;
 
     private String location;
+
     private String salaryRange;
+
     private Integer experienceRequired;
 
     @Enumerated(EnumType.STRING)
